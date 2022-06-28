@@ -33,7 +33,7 @@ Each alert rule defines the severity of the alerts that it creates based on the 
 |:---|:---|:---|
 | Sev 0 | Critical  | Loss of service or application availability or severe degradation of performance. Requires immediate attention. |
 | Sev 1 | Error  | Degradation of performance or loss of availability of some aspect of an application or service. Requires attention but not immediate. |
-| Sev 2 | Warning | A problem that does not include any current loss in availability or performance, although has the potential to lead to more sever problems if unaddressed. |
+| Sev 2 | Warning | A problem that does not include any current loss in availability or performance, although has the potential to lead to more severe problems if unaddressed. |
 | Sev 3 | Informational | Does not indicate a problem but rather interesting information to an operator such as successful completion of a regular process. |
 | Sev 4 | Verbose | Detailed information not useful 
 
